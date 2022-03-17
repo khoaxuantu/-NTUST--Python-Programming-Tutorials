@@ -7,31 +7,21 @@
 
 
 ## Hints:
-- 52 Cards → class Card
-
-  Property：suit → Read & Write
-  
+- 52 Cards → class Card<br/>
+  Property：suit → Read & Write<br/>
   Property：rank → Read & Write
   
-- 1 Card Stack → class CardStack = 52 x Card Objects
-
-  __init__: Generate 52 x Card object and .shuffle them.
-
+- 1 Card Stack → class CardStack = 52 x Card Objects<br/>
+  __init__: Generate 52 x Card object and .shuffle them.<br/>
   deal()：Draw and deal a card for users.
   
-- 4 Players → class Player
-
-  __init__: Generate an empty list to store 13 cards.
-
-  getCard(oneCard): Accept one card object.
-
+- 4 Players → class Player<br/>
+  __init__: Generate an empty list to store 13 cards.<br/>
+  getCard(oneCard): Accept one card object.<br/>
   __str__: Print all the 13 cards of this player.
   
-- main.py
-  Generate a CardStack object.
-
-  Generate 4 objects of class Player
-
-  Use .deal() return one card and use .getCard() to deal for a player.
-  
+- main.py<br/>
+  Generate a CardStack object.<br/>
+  Generate 4 objects of class Player<br/>
+  Use .deal() return one card and use .getCard() to deal for a player.<br/>
   Print 4 players with class Player’s __str__ function.
