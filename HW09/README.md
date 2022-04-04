@@ -10,10 +10,9 @@
   > two flat → print “Unclear (0, 0)”.
 - Your program should also show how many counts of throwing until “Yes” has happened.
 - This homework will test your skills of random numbers, branches, loops, and break command.
-- The output should be looks like the attached image.
 
 
-Hints:
+<b>Hints:</b>
 - To generate a random number either 0 or 1
   > block = random.randint(0, 1)
 - To count the throwing times until “YES” was happened
