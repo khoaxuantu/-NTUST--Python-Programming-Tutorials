@@ -2,7 +2,6 @@
  
 <b>Purpose:</b>
 - Ask users to input the password and check if it is equal to "python".
-- The outputs should look like the attached images.
 
 
 <b>Requirements:</b>
