@@ -3,7 +3,6 @@
 <b>Purpose:</b>
 - Please show a multiplication table with nested loops.
 - You may use "{:2d}" with .format() to have a neat output.
-- The output should be looks like the attached image.
 
 
 <b>Hints:</b>
