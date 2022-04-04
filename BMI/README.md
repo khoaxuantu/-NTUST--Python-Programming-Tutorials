@@ -2,7 +2,6 @@
  
 ## Purpose:
 - Write a program with two functions to calculate BMI as well as judge it.
-- The result of execution should be like attached image.
 
 
 ## Hints:
