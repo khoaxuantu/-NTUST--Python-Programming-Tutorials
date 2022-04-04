@@ -2,7 +2,6 @@
  
 <b>Purpose:</b>
 - Generate a deck of pokers and deal to 4 players randomly.
-- The execution result should look like the attached image.
 
 
 <b>Hints:</b>
