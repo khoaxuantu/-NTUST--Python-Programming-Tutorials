@@ -3,7 +3,6 @@
 <b>Purpose:</b>
 - Write a program to ask the input of DNA sequence from users, and convert it into RNA sequence.
 - The process of converting a DNA sequence to RNA is called "Transcription".
-- The outputs should look like the attached images.
 
 
 <b>Description & Requirements:</b>
