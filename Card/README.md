@@ -3,7 +3,6 @@
 ## Purpose:
 - Generate a deck of pokers and deal to 4 players randomly.
 - Please use Object-Oriented Programming Style to implement this project.
-- The output should look like the attached image file.
 
 
 ## Hints:
