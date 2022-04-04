@@ -2,7 +2,6 @@
  
 <b>Purpose:</b>
 - Please write a program to show the main menu of a store.
-- You may use the attached image as the reference of output.
 <br>
 
 <b>Requirements:</b>
