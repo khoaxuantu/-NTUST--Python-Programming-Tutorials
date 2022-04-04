@@ -2,7 +2,6 @@
  
 <b>Purpose:</b>
 - Please write a program to compute the area of a circle with the radius entered by users.
-- You may refer to the attached image as the example of output.
 <br>
 
 <b>Hints:</b>
