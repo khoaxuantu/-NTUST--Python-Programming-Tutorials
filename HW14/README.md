@@ -2,7 +2,6 @@
 
 <b>Purpose:</b>
 - Write a Program to store, access a Addresses Book.
-- The outputs should look like the attached images.
 
 
 <b>Requirements:</b>
